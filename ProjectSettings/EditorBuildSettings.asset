@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/OutMain.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Let us make a deal.unity
+    guid: f629c30d01ca3fb468c89904b10b7748
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 9bc186986f36785418f6f22e7d3b855d
   m_configObjects: {}
